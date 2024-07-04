@@ -20,4 +20,4 @@ export function MultiStep({ size, currentStep = 1 }: MultiStepProps) {
   )
 }
 
-MultiStep.displayName = 'TextArea'
+MultiStep.displayName = 'MultiStep'
